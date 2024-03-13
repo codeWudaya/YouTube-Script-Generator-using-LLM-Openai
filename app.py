@@ -6,7 +6,7 @@ from langchain.memory import ConversationBufferMemory
 from langchain.utilities import WikipediaAPIWrapper
 import os
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = ''
 
 # App Framework
 st.title("Youtube Video Script Generator with LangChain 🦜🔗")
